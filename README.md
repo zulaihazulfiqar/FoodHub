@@ -1,7 +1,5 @@
 # FoodHub NYC Data Analysis
 **Exploratory Data Analysis (EDA) & Revenue Insights on NYC Food Delivery Orders**
-## Project Overview
-Analyzed NYC food delivery orders from FoodHub, a food aggregator, to understand customer behavior, restaurant performance, and delivery efficiency. The goal was to identify patterns, optimize promotions, and improve operational decision-making.
 ## Objective
 - Determine top-performing restaurants eligible for promotional offers.
 - Evaluate delivery times and identify bottlenecks.
